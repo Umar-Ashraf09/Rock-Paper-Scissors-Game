@@ -14,6 +14,7 @@ Welcome to the Rock Paper Scissors Game! Test your luck and decision-making skil
 
 ## Preview
 
+![Rock Paper Scissors Game](https://github.com/Umar-Ashraf09/Rock-Paper-Scissors-Game/assets/92431008/72aab0ff-5e69-4449-95f9-35c526bdfcf4)
 
 
 ## Technologies Used
